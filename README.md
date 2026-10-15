@@ -268,7 +268,7 @@ Selecting any checkbox updates the KPI cards and all charts.
 
 > 🎬 **Watch the walkthrough:**
 > 
-> **[▶️ Click here to watch the project demo]([https://drive.google.com/drive/u/2/folders/1ghA2Tm8vuXUYFcdI92iz-bt132rX_1c8](https://drive.google.com/file/d/1LATvE76XKB8bhNL3C5FnSFVIMWUXxQ8b/view?usp=sharing))**
+> **[▶️ Click here to watch the project demo](https://drive.google.com/file/d/1LATvE76XKB8bhNL3C5FnSFVIMWUXxQ8b/view?usp=sharing)**
 
 ---
 
